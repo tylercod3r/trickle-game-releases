@@ -1,2 +1,2 @@
-# project-rain-game-releases
+# trickle-game-releases
 Godot demo game releases
